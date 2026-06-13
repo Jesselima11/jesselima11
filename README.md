@@ -1,16 +1,27 @@
-## Hi there 👋
+# Prazer! Eu sou Jessé da Silva Lima 🌎
 
-<!--
-**Jesselima11/jesselima11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pesquisador em Geotecnologias | Cientista de Dados Espaciais | Epidemiologia Espacial & Saúde Única**
 
-Here are some ideas to get you started:
+Tenho foco em transformar dados brutos em inteligência territorial, apoiando a formulação de políticas públicas e a tomada de decisão baseada em evidências 🔍.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### O que eu faço na prática 🤔?
+* **Epidemiologia Espacial:** Síntese e modelagem de Índices de Vulnerabilidade Social (IVS) associados a zoonoses e agravos urbanos.
+* **Ciências de Dados Geográficos:** Tratamento, limpeza e espacialização de grandes volumes de microdados oficiais (IBGE, DATASUS).
+* **Análise Socioambiental:** Monitoramento de uso e cobertura da terra empregando sensoriamento remoto (NDVI) para correlação do avanço antrópico.
+
+### Tecnologias e Ferramentas 🛠️:
+* **Linguagens e Bancos de Dados:** Python, R, SQL/PostGIS.
+* **Sistemas de Informação Geográfica (SIG):** QGIS, Google Earth Engine, ESA SNAP.
+* **Visualização e BI:** Power BI, RStudio, Google Colab.
+
+### Como me encontrar 📫:
+* *[LinkedIn](https://www.linkedin.com/in/jesselima11/)*
+* *[E-mail](mailto:jesselimabiz@outlook.com)*
+* *[Lattes](https://lattes.cnpq.br/2959869443124336)*
+* *[Instagram](https://www.instagram.com/jesselima.vet/)*
+
+---
+
+"Transformando dados espaciais em evidências para o ordenamento do território e saúde populacional 😉"
